@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/packages
+/Sbt.Test.Refactoring/bin/Debug
+/Sbt.Test.Refactoring/obj/Debug
+/Sbt.Test.Refactoring.Tests/bin/Debug
+/Sbt.Test.Refactoring.Tests/obj/Debug
